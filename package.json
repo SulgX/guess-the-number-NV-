@@ -1,0 +1,7 @@
+{
+  "name": "guess-the-number",
+  "version": "1.0.0",
+  "description": "A browser-based number guessing game",
+  "private": true,
+  "license": "MIT"
+}
